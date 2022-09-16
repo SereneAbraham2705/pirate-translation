@@ -1,0 +1,25 @@
+
+#txt-input{
+    width: 80%;
+    border: 1px solid black;
+    height: 10rem;
+    display: block;
+    padding-bottom: 2rem;
+}
+#output-here{
+    width: 80%;
+    border: 1px solid black;
+    height: 10rem;
+    padding-top: 1rem;
+}
+#text{
+    padding: 2rem 0rem;
+    text-decoration-line: underline;
+}
+#output-btn{
+    padding:1rem 1rem;
+    background-color: lightblue;
+}
+body{
+    background-color: antiquewhite;
+}
