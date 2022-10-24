@@ -4,3 +4,4 @@ In this the user enters desired text in ENGLISH and the app makes network calls 
 TECHNOLOGIES USED: HTML, vanillajs.
 
 CHECK OUT THE APP HERE:
+https://serene-pirate-transaltor.netlify.app/
